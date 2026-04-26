@@ -7,3 +7,4 @@ build/
 tester.txt
 seed.jsnode_modules/
 .env
+seed.js
